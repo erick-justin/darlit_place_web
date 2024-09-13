@@ -47257,7 +47257,7 @@ new A.hU().zK(l)
 l=q.c
 l.toString
 s=2
-return A.M(new A.wW(l).nD("http://54.67.11.20:5050/api/darlit",a,!0),$async$fW)
+return A.M(new A.wW(l).nD("https://fxapi.invict.site/api/darlit",a,!0),$async$fW)
 case 2:p=e
 q.c.toString
 l=$.Yw()
@@ -47351,7 +47351,7 @@ new A.hU().zK(l)
 l=q.c
 l.toString
 s=2
-return A.M(new A.wW(l).nD("http://54.67.11.20:5050/api/darlit",a,!0),$async$fW)
+return A.M(new A.wW(l).nD("https://fxapi.invict.site/api/darlit",a,!0),$async$fW)
 case 2:p=e
 q.c.toString
 l=$.Yw()
@@ -47429,7 +47429,7 @@ var $async$fW=A.F(function(d,e){if(d===1)return A.G(e,r)
 while(true)switch(s){case 0:l=q.c
 l.toString
 s=2
-return A.M(new A.wW(l).nD("http://54.67.11.20:5050/api/darlit",a,!1),$async$fW)
+return A.M(new A.wW(l).nD("https://fxapi.invict.site/api/darlit",a,!1),$async$fW)
 case 2:p=e
 o=B.b9.yA(0,p,null)
 l=J.as(o)
